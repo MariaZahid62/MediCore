@@ -1,7 +1,5 @@
 # MediCore
-A console-based Hospital Management System built in C++ using Object-Oriented Programming (OOP), designed to streamline patient registration, staff management, appointment scheduling, and pharmacy billing.
-
-
+A C++-based OOP hospital system that simulates real-world patient, staff, and billing workflows in a console environment.
 ##  Table of Contents
 
 - [Overview](#overview)
@@ -16,13 +14,9 @@ A console-based Hospital Management System built in C++ using Object-Oriented Pr
 - [Author](#author)
 - [License](#license)
 
----
-
 ##  Overview
 
-**MediCore** is a simplified yet functional Hospital Management System built for academic and demonstration purposes. It handles basic operations like patient registration, appointment scheduling, staff tracking, and pharmacy billing – all from a console interface. Ideal for learning OOP and file handling in C++.
-
----
+**MediCore** is a lightweight yet robust console-based Hospital Management System developed in C++ using Object-Oriented Programming (OOP) principles. Designed as an academic project with real-world inspiration, it provides essential modules for patient registration, staff management, appointment scheduling, and pharmacy billing — all through an intuitive text-based interface.
 
 ##  Key Features
 
@@ -42,16 +36,12 @@ A console-based Hospital Management System built in C++ using Object-Oriented Pr
   - Basic billing system to record prescribed medicines
   - Calculate and display bill summaries
 
----
-
 ##  Technologies Used
 
 - **Language:** C++
 - **Compiler:** g++ / Visual Studio (MSVC)
 - **IDE:** Visual Studio / Code::Blocks / VS Code
 - **Concepts:** OOP, File I/O, Console I/O
-
----
 
 ##  OOP Concepts Implemented
 
@@ -68,9 +58,7 @@ A console-based Hospital Management System built in C++ using Object-Oriented Pr
   - Virtual functions for displaying person info
 
 - **File Handling**  
-  - Using `fstream` to store and retrieve data
-
----
+  - To store and retrieve data
 
 ##  Getting Started
 
@@ -80,7 +68,6 @@ A console-based Hospital Management System built in C++ using Object-Oriented Pr
 2. **Build the solution** (e.g., press `Ctrl+Shift+B` in Visual Studio).
 3. **Run the executable**
 
----
 ## User Interaction
 Upon launching, you will see:
 
@@ -95,7 +82,6 @@ Welcome to MediCore – Hospital Management System
 
 (Just type the number corresponding to the action you want to perform.)
 
----
 ## Example Program Flow
 
 1. Registers a patient
@@ -104,21 +90,17 @@ Welcome to MediCore – Hospital Management System
 4. View patient history
 5. Logs out or exits the program
 
----
 ## Learning Outcomes
-Apply real-world OOP principles in C++
-Work with text file handling for data persistence
-Practice writing clean, modular code
-Understand how hospital systems are digitally managed
-
----
+- Apply real-world OOP principles in C++
+- Work with text file handling for data persistence
+- Practice writing clean, modular code
+- Understand how hospital systems are digitally managed
 
 ## Author
 Maria Zahid
-Student – BS Computer Science, Bahria University
-🔗 LinkedIn Profile
-📫 Email: your.email@example.com
+- Student – BS Computer Science, Bahria University
+- www.linkedin.com/in/maria-zahid-056a87327
+- mariazahid404@gmail.com
 
----
 ## License
 This project is open-source and available under the MIT License.
