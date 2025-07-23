@@ -1,0 +1,7 @@
+Dr. Ahmed Butt|Doctor|555-0101
+Nurse Sana Khan|Nurse|555-0102
+Dr. Imtiaz Akhtar|Doctor|555-0103
+Surg. Fahad Ahmed|Surgeon|555-0104
+Nurse Saba Mehmood|Nurse|555-0105
+Dr. Adeel Hussain|Cardiologist|555-0106
+Dr. Rabia Zafar|Pediatrician|555-0107

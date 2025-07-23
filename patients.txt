@@ -1,0 +1,7 @@
+Usman|Leg injury|Ibuprofen|Cast
+Maheen|Diabetes|Insulin|Monitoring
+Ali Raza|BP issue|Amlodipine|Diet change
+Zara Khalid|Asthma|Inhaler|Therapy
+Bilal Saeed|Migraine|Sumatriptan|Rest
+Hina Tariq|Arm fracture|Panadol|Sling
+Fahad Murtaza|COVID|Azithro|Isolation
