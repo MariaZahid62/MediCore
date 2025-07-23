@@ -1,7 +1,6 @@
 # MediCore
 A console-based Hospital Management System built in C++ using Object-Oriented Programming (OOP), designed to streamline patient registration, staff management, appointment scheduling, and pharmacy billing.
 
----
 
 ##  Table of Contents
 
