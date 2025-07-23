@@ -1,5 +1,5 @@
 # MediCore
-A C++-based OOP hospital system that simulates real-world patient, staff, and billing workflows in a console environment.
+A C++ based OOP hospital system that simulates real-world patient, staff, and billing workflows in a console environment.
 ##  Table of Contents
 
 - [Overview](#overview)
